@@ -1,4 +1,4 @@
-Welcome to basic javascript coding!
+Welcome to basic JavaScript coding!
 
 Swap Two Variables a and b:
 let a=3;
@@ -8,3 +8,9 @@ let temp = a;
     b=temp;
 console.log('a value is =', a);
 console.log('b value is =', b);
+
+Largest among 2 numbers:
+let a=3;
+let b=4;
+let maximum = a>b ? a:b;
+console.log (maximum);
