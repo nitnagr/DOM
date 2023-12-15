@@ -14,3 +14,5 @@ let a=3;
 let b=4;
 let maximum = a>b ? a:b;
 console.log (maximum);
+
+Thank you :)
